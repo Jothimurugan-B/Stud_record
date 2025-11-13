@@ -5,16 +5,19 @@ It allows storing and managing student details like **name, roll number, and mar
 
 ---
 
-## 🔧 Features
-- Add, view, modify, and delete student records  
-- Delete a single record or clear all  
-- Sort records (name / roll / marks)  
-- Save records to file and load them back  
-- Uses structures + linked list for dynamic storage  
+**Add Student:** Insert new student records dynamically  
+- **Show Students:** View all stored student details  
+- **Modify Record:** Update name, roll number, or marks of an existing student  
+- **Delete One:** Remove a specific student from the list  
+- **Delete All:** Clear the entire student database  
+- **Sort Records:** Sort by name, roll number, or marks  
+- **Save to File:** Store data permanently in a text file  
+- **Reverse List:** Reverse the entire student record  
+- Built using **structures + singly linked list** for efficient memory usage
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 Built With
 - C Programming  
 - Structures  
 - Singly Linked List  
